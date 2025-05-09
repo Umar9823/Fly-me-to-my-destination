@@ -15,6 +15,6 @@ If the destination is **not reachable**, return `-1`.
 ## ✅ Example Inputs and Outputs
 
 ```javascript
-minPlanesToDestination([2, 1, 2, 3, 1]);       // Output: 2
-minPlanesToDestination([1, 6, 3, 4, 5, 0, 0, 0, 6]); // Output: 2
-minPlanesToDestination([0, 2, 3]);            // Output: -1 (Cannot move from start)
+minPlanesToDestination([2, 1, 2, 3, 1]);
+minPlanesToDestination([1, 6, 3, 4, 5, 0, 0, 0, 6]); 
+minPlanesToDestination([0, 2, 3]); 
